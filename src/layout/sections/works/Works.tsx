@@ -9,7 +9,7 @@ import projectImage2 from '../../../assets/images/proj-2.webp'
 import projectImage3 from '../../../assets/images/proj-3.webp'
 import projectImage4 from '../../../assets/images/proj-4.webp'
 import projectImage5 from '../../../assets/images/proj-5.webp'
-import projectImage6 from '../../../assets/images/proj-5.webp'
+import projectImage6 from '../../../assets/images/proj-6.webp'
 
 export const Works = () => {
     return (
@@ -45,7 +45,7 @@ export const Works = () => {
                 <Work title={'Project Tile goes here'}
                     text={'This is sample project description random things are here in description This is sample project lorem ipsum generator for dummy content'}
                     technology={'Tech stack : HTML , JavaScript, SASS, React'}
-                    src={projectImage3} />
+                    src={projectImage6} />
             </FlexWrapper>
         </StyledWorks>
     );
