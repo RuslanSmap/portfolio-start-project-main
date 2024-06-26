@@ -16,7 +16,6 @@ export const Education = () => {
                         <StyledEducationText>Bangalore Instutute of Technology</StyledEducationText>
                         <Icon IconId='calendar' />
                         <StyledEducationCalendarDate>Aug 2015 - Dec 2020</StyledEducationCalendarDate>
-
                     </FlexWrapper>
                 </li>
             </ul>
