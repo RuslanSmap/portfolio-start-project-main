@@ -6,23 +6,27 @@ import { FlexWrapper } from '../../../components/FlexWrapper';
 
 export const Main = () => {
     return (
-        <StyleMain>
+        <StyledMain>
             <FlexWrapper align={"center"} justify={"space-around"} >
-            <div>
+            <StyledMainContent >
                 <span>Hi 👋,</span>
                 <span>My name is</span>
                 <Name>Pavan MG</Name>
                 <MainTitle>I build things for web</MainTitle>
-            </div>
+            </StyledMainContent>
             <Photo src={photo} alt="" />
             </FlexWrapper>
-        </StyleMain>
+        </StyledMain>
     );
 };
 
-const StyleMain = styled.div`
+const StyledMain = styled.section`
    min-height: 100vh;
    background-color: #fff5e7;
+`
+
+const StyledMainContent = styled.div`
+
 `
 
 const Photo = styled.img`

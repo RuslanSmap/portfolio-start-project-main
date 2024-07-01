@@ -2,69 +2,56 @@ import React from 'react';
 import { Icon } from '../../../../components/icon/Icon';
 import styled from 'styled-components';
 import { FlexWrapper } from '../../../../components/FlexWrapper';
+import { SectionTitle } from '../../../../components/SectionTitle';
+import { SectionText } from '../../../../components/SectionText';
 
 export const WorkExperience = () => {
     return (
-        <div>
-            <StyledWorkExperienceTitle>Work Experience</StyledWorkExperienceTitle>
+        <StyledWorkExperience>
+            <SectionTitle>Work Experience</SectionTitle>
             <ul>
                 <li>
                     <FlexWrapper align='center'>
-                        <StyledWorkExperienceText>Junior Web Developer</StyledWorkExperienceText>
+                        <SectionText>Junior Web Developer</SectionText>
                         <span>Full Time</span>
                         <Icon IconId='workplace' />
-                        <StyledWorkExperiencePlaceText>Dr. Rajkumar’s Learning App</StyledWorkExperiencePlaceText>
+                        <SectionText>Dr. Rajkumar’s Learning App</SectionText>
                         <Icon IconId='location' />
-                        <StyledWorkExperienceLocationText>Bengaluru</StyledWorkExperienceLocationText>
+                        <span>Bengaluru</span>
                         <Icon IconId='calendar' />
-                        <StyledWorkExperienceCalendarDate>Sep 2021 - Dec 2021</StyledWorkExperienceCalendarDate>
+                        <span>Sep 2021 - Dec 2021</span>
                     </FlexWrapper>
                 </li>
                 <li>
                     <FlexWrapper>
-                        <StyledWorkExperienceText>Web Development Intern</StyledWorkExperienceText>
+                        <SectionText>Web Development Intern</SectionText>
                         <span>Internship</span>
                         <Icon IconId='workplace' />
-                        <StyledWorkExperiencePlaceText>IonPixelz Web Solutions</StyledWorkExperiencePlaceText>
+                        <SectionText>IonPixelz Web Solutions</SectionText>
                         <Icon IconId='location' />
-                        <StyledWorkExperienceLocationText>Bengaluru</StyledWorkExperienceLocationText>
+                        <span>Bengaluru</span>
                         <Icon IconId='calendar' />
-                        <StyledWorkExperienceCalendarDate>Sep 2021 - Dec 2021</StyledWorkExperienceCalendarDate>
+                        <span>Sep 2021 - Dec 2021</span>
                     </FlexWrapper>
                 </li>
                 <li>
                     <FlexWrapper>
-                        <StyledWorkExperienceText>SEO / SEM Specialist</StyledWorkExperienceText>
+                        <SectionText>SEO / SEM Specialist</SectionText>
                         <span>Internship</span>
                         <Icon IconId='workplace' />
-                        <StyledWorkExperiencePlaceText>HAAPS</StyledWorkExperiencePlaceText>
+                        <SectionText>HAAPS</SectionText>
                         <Icon IconId='location' />
-                        <StyledWorkExperienceLocationText>Bengaluru</StyledWorkExperienceLocationText>
+                        <span>Bengaluru</span>
                         <Icon IconId='calendar' />
-                        <StyledWorkExperienceCalendarDate>Sep 2021 - Dec 2021</StyledWorkExperienceCalendarDate>
+                        <span>Sep 2021 - Dec 2021</span>
                     </FlexWrapper>
                 </li>
             </ul>
-        </div>
+        </StyledWorkExperience>
     );
 };
 
-const StyledWorkExperienceTitle = styled.h3`
 
-`
-const StyledWorkExperienceText = styled.p`
-
-`
-
-
-const StyledWorkExperiencePlaceText = styled.p`
-
-`
-
-const StyledWorkExperienceLocationText = styled.p`
-
-`
-
-const StyledWorkExperienceCalendarDate = styled.p`
+const StyledWorkExperience = styled.section`
 
 `
