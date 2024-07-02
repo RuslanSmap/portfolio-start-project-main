@@ -45,7 +45,7 @@ export const Contacts = () => {
 
 
 const StyledContacts = styled.section`
-     background-color: #f5b0c5;
+  
 `
 
 const StyledTel = styled.a`
