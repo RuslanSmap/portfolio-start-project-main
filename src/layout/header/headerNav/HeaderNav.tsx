@@ -28,17 +28,19 @@ export const HeaderNav = () => {
 };
 
 const StyledHeaderNav = styled.nav`
+    margin: 9px 0px 0px 0px;
+
     ul {
-    display: flex
+    display: flex;
+    margin: 0;
+    padding: 0;
     }
 
     li + li {
-        margin-left : 20px;
-    }
-
-    ;
+        margin: 0px 0px 0px 20px;
+    };
 `
 
 const Link = styled.a`
-    
+    color: #666666;
 `
