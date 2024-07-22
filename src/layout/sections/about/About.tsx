@@ -3,18 +3,20 @@ import styled from 'styled-components';
 import { AboutMe } from './aboutMe/AboutMe';
 import { WorkExperience } from './workExperience/WorkExperience';
 import { Education } from './education/Education';
+import { Container } from '../../../components/Container';
 
 export const About = () => {
     return (
-        <StyledAbout>
-            <AboutMe />
-            <WorkExperience />
-            <Education />
-        </StyledAbout>
+        <Container>
+            <StyledAbout>
+                <AboutMe />
+                <WorkExperience />
+                <Education />
+            </StyledAbout>
+        </Container>
     );
 };
 
 const StyledAbout = styled.section`
-   
-    min-height: 100vh;
+    max-width: 710px;
 `
