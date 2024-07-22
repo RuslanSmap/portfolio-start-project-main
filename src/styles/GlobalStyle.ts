@@ -3,7 +3,7 @@ import { theme } from "./Theme";
 
 export const GlobalStyle = createGlobalStyle`
 
-*
+*,
 *::before,
 *::after {
     margin: 0;
