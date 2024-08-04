@@ -1,0 +1,121 @@
+<svg width="1018.381592" height="1018.384033" viewBox="0 0 1018.38 1018.38" fill="none" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+	<desc>
+			Created with Pixso.
+	</desc>
+	<defs>
+		<linearGradient x1="621.652344" y1="107.235390" x2="540.448853" y2="135.192978" id="paint_linear_15_2069_0" gradientUnits="userSpaceOnUse">
+			<stop stop-color="#13B0F5"/>
+			<stop offset="1.000000" stop-color="#CA24B4"/>
+		</linearGradient>
+		<linearGradient x1="527.722473" y1="183.953995" x2="371.463623" y2="274.180298" id="paint_linear_15_2074_0" gradientUnits="userSpaceOnUse">
+			<stop stop-color="#E70FAA"/>
+			<stop offset="1.000000" stop-color="#13B0F5"/>
+		</linearGradient>
+		<linearGradient x1="603.264099" y1="275.875488" x2="575.306519" y2="194.672028" id="paint_linear_15_2076_0" gradientUnits="userSpaceOnUse">
+			<stop stop-color="#13B0F5"/>
+			<stop offset="1.000000" stop-color="#CA24B4"/>
+		</linearGradient>
+		<linearGradient x1="246.777985" y1="374.348907" x2="355.049377" y2="337.072113" id="paint_linear_15_2085_0" gradientUnits="userSpaceOnUse">
+			<stop stop-color="#00C0FD"/>
+			<stop offset="0.421875" stop-color="#E70FAA"/>
+			<stop offset="1.000000" stop-color="#00C0FD"/>
+		</linearGradient>
+		<linearGradient x1="708.246643" y1="254.994385" x2="736.204224" y2="336.197845" id="paint_linear_15_2097_0" gradientUnits="userSpaceOnUse">
+			<stop stop-color="#13B0F5"/>
+			<stop offset="0.000100" stop-color="#505685"/>
+			<stop offset="0.317708" stop-color="#CA24B4"/>
+			<stop offset="1.000000" stop-color="#13B0F5"/>
+		</linearGradient>
+		<linearGradient x1="235.012207" y1="669.875977" x2="166.147797" y2="552.370056" id="paint_linear_15_2108_0" gradientUnits="userSpaceOnUse">
+			<stop stop-color="#8E34FF"/>
+			<stop offset="0.494792" stop-color="#CA24B4"/>
+			<stop offset="1.000000" stop-color="#8E34FF"/>
+		</linearGradient>
+		<linearGradient x1="740.989929" y1="510.887085" x2="713.032349" y2="429.683624" id="paint_linear_15_2122_0" gradientUnits="userSpaceOnUse">
+			<stop stop-color="#CA24B4"/>
+			<stop offset="0.234375" stop-color="#13B0F5"/>
+		</linearGradient>
+		<linearGradient x1="392.584625" y1="577.865845" x2="507.475800" y2="510.871155" id="paint_linear_15_2131_0" gradientUnits="userSpaceOnUse">
+			<stop stop-color="#13B0F5"/>
+			<stop offset="0.750000" stop-color="#CA24B4"/>
+			<stop offset="1.000000" stop-color="#13B0F5"/>
+		</linearGradient>
+		<linearGradient x1="727.548767" y1="566.182251" x2="835.820129" y2="528.905518" id="paint_linear_15_2141_0" gradientUnits="userSpaceOnUse">
+			<stop stop-color="#8643DC"/>
+			<stop offset="0.000100" stop-color="#8643DC"/>
+			<stop offset="0.317708" stop-color="#CA24B4"/>
+			<stop offset="1.000000" stop-color="#8643DC"/>
+		</linearGradient>
+		<linearGradient x1="796.413025" y1="683.688110" x2="904.684387" y2="646.411377" id="paint_linear_15_2142_0" gradientUnits="userSpaceOnUse">
+			<stop stop-color="#8643DC"/>
+			<stop offset="0.000100" stop-color="#8643DC"/>
+			<stop offset="0.317708" stop-color="#CA24B4"/>
+			<stop offset="1.000000" stop-color="#8643DC"/>
+		</linearGradient>
+		<linearGradient x1="529.412354" y1="813.068115" x2="460.547943" y2="695.562256" id="paint_linear_15_2155_0" gradientUnits="userSpaceOnUse">
+			<stop stop-color="#13B0F5"/>
+			<stop offset="0.058293" stop-color="#CA24B4"/>
+			<stop offset="1.000000" stop-color="#13B0F5"/>
+		</linearGradient>
+	</defs>
+	<g opacity="0.500000">
+		<path id="Vector 1" d="M714.5 231L597 299.86" stroke="#B2B2B2" stroke-opacity="1.000000" stroke-width="1.000000"/>
+		<path id="Vector 2" d="M645.64 113.49L528.13 182.36" stroke="url(#paint_linear_15_2069_0)" stroke-opacity="1.000000" stroke-width="1.000000"/>
+		<path id="Vector 3" d="M597 299.86L528.13 182.36" stroke="#B2B2B2" stroke-opacity="1.000000" stroke-width="1.000000"/>
+		<path id="Vector 4" d="M714.5 231L645.64 113.49" stroke="#B2B2B2" stroke-opacity="1.000000" stroke-width="1.000000"/>
+		<path id="Vector 1" d="M597 299.86L440.32 391.68" stroke="#B2B2B2" stroke-opacity="1.000000" stroke-width="1.000000"/>
+		<path id="Vector 2" d="M528.13 182.36L371.46 274.18" stroke="url(#paint_linear_15_2074_0)" stroke-opacity="1.000000" stroke-width="1.000000"/>
+		<path id="Vector 3" d="M440.32 391.68L371.46 274.18" stroke="#B2B2B2" stroke-opacity="1.000000" stroke-width="1.000000"/>
+		<path id="Vector 4" d="M597 299.86L528.13 182.36" stroke="url(#paint_linear_15_2076_0)" stroke-opacity="1.000000" stroke-width="1.000000"/>
+		<path id="Vector 1" d="M97.28 434.86L214.78 366" stroke="#B2B2B2" stroke-opacity="1.000000" stroke-width="1.000000"/>
+		<path id="Vector 2" d="M166.14 552.37L283.65 483.5" stroke="#B2B2B2" stroke-opacity="1.000000" stroke-width="1.000000"/>
+		<path id="Vector 3" d="M214.78 366L283.65 483.5" stroke="#B2B2B2" stroke-opacity="1.000000" stroke-width="1.000000"/>
+		<path id="Vector 4" d="M97.28 434.86L166.14 552.37" stroke="#B2B2B2" stroke-opacity="1.000000" stroke-width="1.000000"/>
+		<path id="Vector 1" d="M214.78 366L371.46 274.18" stroke="url(#paint_linear_15_2085_0)" stroke-opacity="1.000000" stroke-width="1.000000"/>
+		<path id="Vector 2" d="M283.65 483.5L440.32 391.68" stroke="#B2B2B2" stroke-opacity="1.000000" stroke-width="1.000000"/>
+		<path id="Vector 4" d="M214.78 366L283.65 483.5" stroke="#B2B2B2" stroke-opacity="1.000000" stroke-width="1.000000"/>
+		<path id="Vector 1" d="M440.32 391.68L557.83 322.82" stroke="#B2B2B2" stroke-opacity="1.000000" stroke-width="1.000000"/>
+		<path id="Vector 2" d="M509.19 509.19L626.69 440.32" stroke="#B2B2B2" stroke-opacity="1.000000" stroke-width="1.000000"/>
+		<path id="Vector 3" d="M557.83 322.82L626.69 440.32" stroke="#B2B2B2" stroke-opacity="1.000000" stroke-width="1.000000"/>
+		<path id="Vector 1" d="M557.83 322.82L714.5 231" stroke="#B2B2B2" stroke-opacity="1.000000" stroke-width="1.000000"/>
+		<path id="Vector 2" d="M626.69 440.32L783.37 348.5" stroke="#B2B2B2" stroke-opacity="1.000000" stroke-width="1.000000"/>
+		<path id="Vector 3" d="M714.5 231L783.37 348.5" stroke="url(#paint_linear_15_2097_0)" stroke-opacity="1.000000" stroke-width="1.000000"/>
+		<path id="Vector 4" d="M557.83 322.82L626.69 440.32" stroke="#B2B2B2" stroke-opacity="1.000000" stroke-width="1.000000"/>
+		<path id="Vector 1" d="M509.19 509.19L391.68 578.05" stroke="#B2B2B2" stroke-opacity="1.000000" stroke-width="1.000000"/>
+		<path id="Vector 2" d="M440.32 391.68L322.82 460.55" stroke="#B2B2B2" stroke-opacity="1.000000" stroke-width="1.000000"/>
+		<path id="Vector 3" d="M391.68 578.05L322.82 460.55" stroke="#B2B2B2" stroke-opacity="1.000000" stroke-width="1.000000"/>
+		<path id="Vector 1" d="M391.68 578.05L235.01 669.87" stroke="#B2B2B2" stroke-opacity="1.000000" stroke-width="1.000000"/>
+		<path id="Vector 2" d="M322.82 460.55L166.14 552.37" stroke="#B2B2B2" stroke-opacity="1.000000" stroke-width="1.000000"/>
+		<path id="Vector 3" d="M235.01 669.87L166.14 552.37" stroke="url(#paint_linear_15_2108_0)" stroke-opacity="1.000000" stroke-width="1.000000"/>
+		<path id="Vector 4" d="M391.68 578.05L322.82 460.55" stroke="#B2B2B2" stroke-opacity="1.000000" stroke-width="1.000000"/>
+		<path id="Vector 1" d="M852.23 466.01L734.72 534.87" stroke="#B2B2B2" stroke-opacity="1.000000" stroke-width="1.000000"/>
+		<path id="Vector 2" d="M783.37 348.5L665.86 417.37" stroke="#B2B2B2" stroke-opacity="1.000000" stroke-width="1.000000"/>
+		<path id="Vector 3" d="M734.72 534.87L665.86 417.37" stroke="#B2B2B2" stroke-opacity="1.000000" stroke-width="1.000000"/>
+		<path id="Vector 4" d="M852.23 466.01L783.37 348.5" stroke="#B2B2B2" stroke-opacity="1.000000" stroke-width="1.000000"/>
+		<path id="Vector 1" d="M734.72 534.87L578.05 626.69" stroke="#B2B2B2" stroke-opacity="1.000000" stroke-width="1.000000"/>
+		<path id="Vector 2" d="M665.86 417.37L509.18 509.19" stroke="#B2B2B2" stroke-opacity="1.000000" stroke-width="1.000000"/>
+		<path id="Vector 3" d="M578.05 626.69L509.18 509.19" stroke="#B2B2B2" stroke-opacity="1.000000" stroke-width="1.000000"/>
+		<path id="Vector 4" d="M734.72 534.87L665.86 417.37" stroke="url(#paint_linear_15_2122_0)" stroke-opacity="1.000000" stroke-width="1.000000"/>
+		<path id="Vector 1" d="M235 669.87L352.51 601.01" stroke="#B2B2B2" stroke-opacity="1.000000" stroke-width="1.000000"/>
+		<path id="Vector 2" d="M303.87 787.38L421.38 718.51" stroke="#B2B2B2" stroke-opacity="1.000000" stroke-width="1.000000"/>
+		<path id="Vector 3" d="M352.51 601.01L421.38 718.51" stroke="#B2B2B2" stroke-opacity="1.000000" stroke-width="1.000000"/>
+		<path id="Vector 4" d="M235 669.87L303.87 787.38" stroke="#B2B2B2" stroke-opacity="1.000000" stroke-width="1.000000"/>
+		<path id="Vector 1" d="M352.51 601.01L509.19 509.19" stroke="url(#paint_linear_15_2131_0)" stroke-opacity="1.000000" stroke-width="1.000000"/>
+		<path id="Vector 2" d="M421.38 718.51L578.05 626.69" stroke="#B2B2B2" stroke-opacity="1.000000" stroke-width="1.000000"/>
+		<path id="Vector 4" d="M352.51 601.01L421.38 718.51" stroke="#B2B2B2" stroke-opacity="1.000000" stroke-width="1.000000"/>
+		<path id="Vector 1" d="M578.05 626.69L695.56 557.83" stroke="#B2B2B2" stroke-opacity="1.000000" stroke-width="1.000000"/>
+		<path id="Vector 2" d="M646.91 744.2L764.42 675.33" stroke="#B2B2B2" stroke-opacity="1.000000" stroke-width="1.000000"/>
+		<path id="Vector 3" d="M695.56 557.83L764.42 675.33" stroke="#B2B2B2" stroke-opacity="1.000000" stroke-width="1.000000"/>
+		<path id="Vector 1" d="M695.56 557.83L852.23 466.01" stroke="url(#paint_linear_15_2141_0)" stroke-opacity="1.000000" stroke-width="1.000000"/>
+		<path id="Vector 2" d="M764.42 675.33L921.09 583.52" stroke="url(#paint_linear_15_2142_0)" stroke-opacity="1.000000" stroke-width="1.000000"/>
+		<path id="Vector 3" d="M852.23 466.01L921.09 583.52" stroke="#B2B2B2" stroke-opacity="1.000000" stroke-width="1.000000"/>
+		<path id="Vector 4" d="M695.56 557.83L764.42 675.33" stroke="#B2B2B2" stroke-opacity="1.000000" stroke-width="1.000000"/>
+		<path id="Vector 1" d="M646.91 744.2L529.41 813.06" stroke="#B2B2B2" stroke-opacity="1.000000" stroke-width="1.000000"/>
+		<path id="Vector 2" d="M578.05 626.69L460.54 695.56" stroke="#B2B2B2" stroke-opacity="1.000000" stroke-width="1.000000"/>
+		<path id="Vector 3" d="M529.41 813.06L460.54 695.56" stroke="#B2B2B2" stroke-opacity="1.000000" stroke-width="1.000000"/>
+		<path id="Vector 1" d="M529.41 813.06L372.73 904.88" stroke="#B2B2B2" stroke-opacity="1.000000" stroke-width="1.000000"/>
+		<path id="Vector 2" d="M460.54 695.56L303.87 787.38" stroke="#B2B2B2" stroke-opacity="1.000000" stroke-width="1.000000"/>
+		<path id="Vector 3" d="M372.73 904.88L303.87 787.38" stroke="#B2B2B2" stroke-opacity="1.000000" stroke-width="1.000000"/>
+		<path id="Vector 4" d="M529.41 813.06L460.54 695.56" stroke="url(#paint_linear_15_2155_0)" stroke-opacity="1.000000" stroke-width="1.000000"/>
+	</g>
+</svg>

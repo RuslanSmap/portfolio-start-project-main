@@ -42,5 +42,5 @@ const StyledHeaderNav = styled.nav`
 `
 
 const Link = styled.a`
-    color: #666666;
+
 `
